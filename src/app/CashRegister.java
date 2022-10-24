@@ -137,5 +137,8 @@ public class CashRegister {
 		} else {
 			System.out.println("Exact Change: Thank you for shopping at Casey's General Store");
 		}
+
+		
 	}
 }
+
